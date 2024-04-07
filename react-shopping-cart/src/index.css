@@ -1,0 +1,59 @@
+.page {
+	padding: 120px 8.3%;
+}
+.size {
+	background-color: #ececec;
+	width: 32px;
+	height: 32px;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	font-weight: 700;
+	font-size: 10px;
+}
+.rating-text {
+	font-size: small;
+}
+.rating-button {
+	background-color: #ececec;
+	font-size: 14px;
+	font-weight: 700;
+}
+.likes {
+	background-color: #ececec;
+	width: 55px;
+}
+.ratings-count {
+	background-color: rgb(254, 254, 254);
+	border: 1px solid lightgrey;
+	font-weight: 700;
+}
+.pointy {
+	width: 12px;
+	height: 12px;
+	background-color: black;
+	transform: rotate(45deg);
+	top: 12px;
+	left: -7px;
+	background-color: rgb(254, 254, 254);
+	border-bottom: 1px solid lightgrey;
+	border-left: 1px solid lightgrey;
+}
+.select-choice {
+	width: 150px;
+}
+.yellow-dash {
+	width: 20px;
+	height: 3px;
+	background-color: rgb(237, 216, 115);
+}
+.item-price {
+	font-size: 24px;
+}
+.card-photo {
+	/* height: 330px; */
+}
+.free-shipping {
+	font-size: 8px;
+	right: 0;
+}

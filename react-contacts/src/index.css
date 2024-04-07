@@ -1,0 +1,48 @@
+body{
+  font-family: 'Poppins', sans-serif;
+
+}
+.form-container {
+  width: 70vw;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+form {
+  padding: 20px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1.5px solid rgba(0, 0, 0, 0.546);
+  border-radius: 4px;
+  font-family: 'Poppins', sans-serif;
+}
+
+button {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.838);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.contact-box {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-info strong {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+
+
+body {
+ 
+  /* place-items: center; */
+}
+
+.simpleCard{
+  width: 90%;
+  height: 20vh;
+  border: 3px solid black;
+  margin: 0 auto;
+  display: flex;
+  padding: 10px;
+}
+.card_image{
+  height: 100%;
+}
+.card_info{
+  padding: 10px;
+  
+}

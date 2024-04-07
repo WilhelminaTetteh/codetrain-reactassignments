@@ -1,0 +1,28 @@
+.form-container {
+  width: 70vw;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+form {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid black;
+  font-family: 'Poppins', sans-serif;
+}
+
+button {
+  width: 100%;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
